@@ -1,6 +1,5 @@
 Olá, me chamo SeuNomeAqui ! 
 Bem vindo ao meu perfil GitHub 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Prefeitura de BH
 - 🌱 I’m currently learning ... HTML AND CSS AND JAVASCRIPT
