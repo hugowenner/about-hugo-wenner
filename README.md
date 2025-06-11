@@ -1,21 +1,20 @@
 <div align="center">
-  <img src="https://github.com/hugowenner/hugowenner/blob/main/sl_031420_28950_10.jpg?raw=true" alt="Banner de perfil do Hugo Wenner" width="100%">
   <h1>Olá, sou o Hugo Wenner! 👋</h1>
 </div>
 
 ---
 
-Bem-vindo(a) ao meu perfil GitHub! [cite_start]Sou um Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com mais de 315 horas de certificações especializadas. [cite_start]Minha jornada combina experiência prática em suporte técnico com conhecimentos avançados em programação, segurança da informação e análise de dados. [cite_start]Sou proativo na resolução de problemas complexos e busco sempre soluções inovadoras.
+Bem-vindo(a) ao meu perfil GitHub! Sou um Tecnólogo em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com mais de 315 horas de certificações especializadas. Minha jornada combina experiência prática em suporte técnico com conhecimentos avançados em programação, segurança da informação e análise de dados. Sou proativo na resolução de problemas complexos e busco sempre soluções inovadoras.
 
 ### 🚀 O que estou fazendo agora:
 
-- [cite_start]🔭 Atualmente, estou trabalhando como **Técnico de Informática no Colégio Santo Antônio**, onde sou responsável por manter a infraestrutura tecnológica para mais de 3000 usuários da comunidade educacional [cite: 12][cite_start], garantindo 99% de disponibilidade e otimizando processos.
-- [cite_start]🌱 Estou aprofundando meus conhecimentos em **HTML, CSS e JavaScript**, construindo uma base sólida para desenvolvimento web.
+- 🔭 Atualmente, estou trabalhando como **Técnico de Informática no Colégio Santo Antônio**, onde sou responsável por manter a infraestrutura tecnológica para mais de 3000 usuários da comunidade educacional, garantindo 99% de disponibilidade e otimizando processos.
+- 🌱 Estou aprofundando meus conhecimentos em **HTML, CSS e JavaScript**, construindo uma base sólida para desenvolvimento web.
 
 ### 💡 Meus interesses e o que busco:
 
 - 👯 Aberto a colaborar em projetos desafiadores de **desenvolvimento web, front-end, segurança da informação ou análise de dados**.
-- [cite_start]🤔 Buscando oportunidades onde possa aplicar minha experiência técnica e conhecimentos em desenvolvimento de software, análise de dados ou segurança da informação. [cite_start]Quero contribuir para projetos que impactem positivamente os usuários e a organização, sempre mantendo o foco na qualidade e inovação.
+- 🤔 Buscando oportunidades onde possa aplicar minha experiência técnica e conhecimentos em desenvolvimento de software, análise de dados ou segurança da informação. Quero contribuir para projetos que impactem positivamente os usuários e a organização, sempre mantendo o foco na qualidade e inovação.
 - 💬 Fique à vontade para perguntar sobre **desenvolvimento web, segurança da informação, análise de dados ou qualquer outra coisa**!
 
 ### 🛠️ Minhas Competências Técnicas:
@@ -57,20 +56,20 @@ Bem-vindo(a) ao meu perfil GitHub! [cite_start]Sou um Tecnólogo em Análise e D
 
 ### 📚 Formação e Certificações:
 
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Faculdade Newton Paiva | [cite_start]Agosto 2024 - Dezembro 2026. [cite_start]Focado em desenvolvimento de soluções tecnológicas e metodologias ágeis.
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Faculdade Newton Paiva | Agosto 2024 - Dezembro 2026. Focado em desenvolvimento de soluções tecnológicas e metodologias ágeis.
 * **+315 horas de certificações especializadas** pela Alura (2024-2025) em:
-    * [cite_start]**Desenvolvimento de Software (86h):** JavaScript (Tipos, variáveis, funções, Node.js), Python (Aplicações completas, estruturas de dados, POO), Java (Desenvolvimento avançado com JPA, refatoração), Git/GitHub (Controle de versão, colaboração), Expressões Regulares (Validações, manipulação de dados).
-    * [cite_start]**DevOps e Segurança (96h):** Segurança Ofensiva (Pentest em aplicações web, identificação de vulnerabilidades), Segurança de Rede (Firewall, WAF, SIEM, protocolos seguros), Modelagem de Ameaças (Análise preventiva de riscos), Cloud Computing (AWS: EC2, S3, Lambda), Automação (PowerShell, Shell Script).
-    * [cite_start]**Data Science e Business Intelligence (80h):** SQL Avançado (Oracle Database, Microsoft SQL Server), Business Intelligence (Dashboards com Excel, Power Query), Análise de Dados (Extração de insights).
-    * [cite_start]**Administração de Sistemas (30h):** Linux (Administração, scripts, monitoramento), Automação (Soluções para otimizar rotinas).
+    * **Desenvolvimento de Software (86h):** JavaScript (Tipos, variáveis, funções, Node.js), Python (Aplicações completas, estruturas de dados, POO), Java (Desenvolvimento avançado com JPA, refatoração), Git/GitHub (Controle de versão, colaboração), Expressões Regulares (Validações, manipulação de dados).
+    * **DevOps e Segurança (96h):** Segurança Ofensiva (Pentest em aplicações web, identificação de vulnerabilidades), Segurança de Rede (Firewall, WAF, SIEM, protocolos seguros), Modelagem de Ameaças (Análise preventiva de riscos), Cloud Computing (AWS: EC2, S3, Lambda), Automação (PowerShell, Shell Script).
+    * **Data Science e Business Intelligence (80h):** SQL Avançado (Oracle Database, Microsoft SQL Server), Business Intelligence (Dashboards com Excel, Power Query), Análise de Dados (Extração de insights).
+    * **Administração de Sistemas (30h):** Linux (Administração, scripts, monitoramento), Automação (Soluções para otimizar rotinas).
 
 ### 🔗 Conecte-se comigo:
 
-* [cite_start]**LinkedIn:** [Hugo Wenner](https://www.linkedin.com/in/hugo-wenner-358379299/) 
-* [cite_start]**GitHub:** [@hugowenner](https://github.com/hugowenner) 
-* [cite_start]**Email:** hugowenner5@gmail.com 
+* **LinkedIn:** [Hugo Wenner](https://www.linkedin.com/in/hugo-wenner-358379299/)
+* **GitHub:** [@hugowenner](https://github.com/hugowenner)
+* **Email:** hugowenner5@gmail.com
 * **Instagram:** [@hugowenner](https://www.instagram.com/hugowenner/)
 
 ---
 
-[cite_start]_"Acredito que a tecnologia deve ser uma ponte que conecta pessoas e resolve problemas reais. Meu objetivo é sempre entregar soluções que façam a diferença na vida dos usuários e no sucesso da organização."_
+_"Acredito que a tecnologia deve ser uma ponte que conecta pessoas e resolve problemas reais. Meu objetivo é sempre entregar soluções que façam a diferença na vida dos usuários e no sucesso da organização."_
