@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hugowenner/Imagens-do-Perfil/blob/main/banner_perfil_github.png?raw=true" alt="Banner de perfil do Hugo Wenner" width="100%">
+  <img src="[https://github.com/hugowenner/Imagens-do-Perfil/blob/main/banner_perfil_github.png?raw=true](https://github.com/hugowenner/hugowenner/blob/main/sl_031420_28950_10.jpg?raw=true" alt="Banner de perfil do Hugo Wenner" width="100%">)" alt="Banner de perfil do Hugo Wenner" width="100%">
   <h1>Olá, sou o Hugo Wenner! 👋</h1>
 </div>
 
