@@ -53,6 +53,7 @@ Bem-vindo(a) ao meu perfil GitHub! Sou um Tecnólogo em Análise e Desenvolvimen
   <img src="https://img.shields.io/badge/Hardware-D32F2F?style=for-the-badge&logo=amd&logoColor=white" alt="Hardware badge">
   <img src="https://img.shields.io/badge/Virtualization-0078D7?style=for-the-badge&logo=vmware&logoColor=white" alt="Virtualization badge">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Formação e Certificações:
 
